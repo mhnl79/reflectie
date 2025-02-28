@@ -1,0 +1,12 @@
+Reflectie op de Test
+Datum: 28 Februari 2025
+Project: Django 5 Website Project
+
+Tijdens het testen van mijn website heb ik mij geconcentreerd op het gebruik van geautomatiseerde tests op de home en contact pagina's. Het testen hiervan met geautomatiseerde tests was natuurlijk overkill, maar het was zeker nuttig om op deze manier te leren en ervaring op te doen.
+
+Voor https://mheruer.pythonanywhere.com/login/ en https://mheruer.pythonanywhere.com/opdracht/
+heb ik enkel handmatige tests uitgevoerd. Het schrijven van geautomatiseerde tests voor deze pagina's bleek te gecompliceerd vanwege database permissions.
+
+Bij een volgende keer zou ik meer tijd nemen om uit te zoeken hoe ik geautomatiseerde tests voor de complete website kan uitvoeren. Dit zou niet alleen de dekking van de tests verbeteren, maar ook de betrouwbaarheid van het geheel verhogen. Hoewel database permissions een obstakel vormden bij het schrijven van geautomatiseerde tests voor bepaalde pagina's, was ik in staat om toch een solide basis te leggen voor het testen van mijn website. Ondanks de complicaties ben ik tevreden met de resultaten en de stabiliteit.
+
+
